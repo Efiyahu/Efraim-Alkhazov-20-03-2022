@@ -1,4 +1,4 @@
-# Herolo React App with Redux
+# Weather Display App using ReactJS with redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
