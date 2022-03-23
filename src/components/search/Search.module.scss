@@ -3,6 +3,10 @@
 .search {
   height: 120px;
   width: 100%;
+  
+  @media (max-width: 768px){
+    height: 80px;
+  }
 
   .search-box {
     position: absolute;
@@ -27,7 +31,7 @@
       width: 240px;
       padding: 0 6px;
 
-      @media (max-width: 768px) {
+      @media (max-width: 1400:px) {
         padding: 0;
       }
     }
@@ -70,7 +74,7 @@
       line-height: 40px;
       width: 0px;
 
-      @media (max-width: 1024px) {
+      @media (max-width: 1400px) {
         width: 240px;
         padding: 0 6px;
       }
